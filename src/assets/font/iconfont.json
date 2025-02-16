@@ -1,0 +1,72 @@
+{
+  "id": "4829011",
+  "name": "VIP视频",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "833927",
+      "name": "搜狐",
+      "font_class": "souhu",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "10932452",
+      "name": "bilibili-line",
+      "font_class": "bilibili-line",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "27402562",
+      "name": "芒果TV",
+      "font_class": "mangguoTV",
+      "unicode": "ee48",
+      "unicode_decimal": 61000
+    },
+    {
+      "icon_id": "833696",
+      "name": "土豆",
+      "font_class": "tudou",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1244208",
+      "name": "优酷",
+      "font_class": "youku",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "5212630",
+      "name": "奇异果",
+      "font_class": "alishangchuan-",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "27431961",
+      "name": "ic_location",
+      "font_class": "ic_location",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5950874",
+      "name": "腾讯视频",
+      "font_class": "tengxunshipin",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "4954929",
+      "name": "视频",
+      "font_class": "shipin1",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    }
+  ]
+}
